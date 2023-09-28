@@ -5,5 +5,8 @@ You want to learn XR for Quest 2-3 and the Lynx R1 ? Let's map who is teaching t
 Feel free to propose channel that you feel should be here.
 
 In aim to track the video about XR available on Youtube I created an account that will subscribe to the content creator.  
-You can follow the list here:
-- https://www.youtube.com/@eloistreelearnxr/channels?view=56&shelf_id=0
+You can follow the list here:  
+- https://www.youtube.com/@eloistreelearnxr/channels?view=56&shelf_id=0  
+
+If you are french / Si vous êtes français:  
+- https://www.youtube.com/watch?v=eBL0ZpUTxg4&list=PLOcRJ9fX_9wXwPCnA7rxMxQr8JyZWjJdX
